@@ -1,1 +1,1 @@
-app = 1 ("Update available")
+app = 1 ("https://github.com/MasterHunterr/ps3-apps-loder/blob/main/Resource.h")
