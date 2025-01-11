@@ -1,0 +1,5 @@
+app_var = 1.00
+app_up_da = "playinarabic.com"
+
+
+game1 = "test.play"
