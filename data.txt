@@ -2,4 +2,4 @@ any_up = 0
 app_var = 1.00
 app_up_da = "playinarabic.com"
 
-game1 = "test.play"
+game1 = "https://store.brewology.com/get/homebrew.php?id=291&fid=2326"
