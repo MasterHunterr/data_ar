@@ -1,4 +1,4 @@
-any_up = 1
+any_up = 0
 app_var = 1.00
 app_up_da = "playinarabic.com"
 
