@@ -3,3 +3,24 @@ app_var = 1.00
 app_up_da = "playinarabic.com"
 
 game1 = "https://store.brewology.com/get/homebrew.php?id=291&fid=2326"
+
+[
+  {
+    "name": "Nubarron",
+    "description": "نوبارون - لعبة ممتعة ومشوقة",
+    "image": "https://example.com/images/nubarron.jpg",
+    "download": "https://example.com/downloads/nubarron-arabic.zip"
+  },
+  {
+    "name": "Batman Arkham City",
+    "description": "باتمان فارس أركام - تجربة مدهشة",
+    "image": "https://example.com/images/batman.jpg",
+    "download": "https://example.com/downloads/batman-arabic.zip"
+  },
+  {
+    "name": "Astroneer",
+    "description": "رائد الفضاء - مغامرة فضائية",
+    "image": "https://example.com/images/astroneer.jpg",
+    "download": "https://example.com/downloads/astroneer-arabic.zip"
+  }
+]
